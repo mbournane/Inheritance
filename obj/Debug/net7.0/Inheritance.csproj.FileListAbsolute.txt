@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S04\Quests\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\WildSchoul_Formation\S04\Quests\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\WildSchoul_Formation\S04\Quests\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\WildSchoul_Formation\S04\Quests\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\WildSchoul_Formation\S04\Quests\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\WildSchoul_Formation\S04\Quests\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
